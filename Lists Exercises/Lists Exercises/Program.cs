@@ -18,7 +18,7 @@ namespace Lists_Exercises
 
             while (command != "end")
             {
-                string[] commandArgs = command.Split(); // превръщаме стринга command в масив от стрингове !!!
+                string[] commandArgs = command.Split();
 
                 if (commandArgs[0] == "Add")
                 {
