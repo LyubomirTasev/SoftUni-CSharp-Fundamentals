@@ -13,6 +13,7 @@ namespace Associative_Arrays_Exercises
             people.Add("Sando", 25);
             people.Add("Pepi", 32);
             people.Add("Mitko", 34);
+            people.Add("Niki", 34);
 
             foreach (var item in people)
             {
