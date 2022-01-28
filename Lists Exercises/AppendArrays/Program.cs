@@ -13,9 +13,9 @@ namespace AppendArrays
             for (int i = list.Count - 1; i >= 0; i--)
             {
                 int[] numbers = list[i].Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
-                foreach (var VARIABLE in numbers)
+                foreach (var num in numbers)
                 {
-                    endList.Add(VARIABLE);
+                    endList.Add(num);
                 }
             }
             Console.WriteLine(string.Join(" ", endList));
