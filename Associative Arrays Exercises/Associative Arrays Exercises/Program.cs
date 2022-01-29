@@ -10,8 +10,8 @@ namespace Associative_Arrays_Exercises
             Dictionary<string, int> people = new Dictionary<string, int>();
 
             people.Add("Lubo", 22);
-            people.Add("Sando", 25);
-            people.Add("Pepi", 32);
+            people.Add("Denkata", 25);
+            people.Add("Gosheto", 32);
             people.Add("Mitko", 34);
             people.Add("Niki", 34);
 
