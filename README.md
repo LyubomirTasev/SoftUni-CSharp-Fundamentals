@@ -1,2 +1,2 @@
 # SoftUni-CSharp-Fundamentals
-Homework assignments
+Homework Assignments
