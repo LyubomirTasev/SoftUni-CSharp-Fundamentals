@@ -12,7 +12,6 @@ namespace ConsoleApp1
             {
                 Console.WriteLine(item);
             }
-            // обхожда всеки елемент от колекцията, но е read-only
         }
     }
 }
